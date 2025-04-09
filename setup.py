@@ -26,8 +26,8 @@ class PyTest(TestCommand):
 
 setup(
     name='secretary',
-    version='0.2.19',
-    url='https://github.com/christopher-ramirez/secretary',
+    version='0.2.20',
+    url='https://github.com/Nimn/secretary',
     license='MIT',
     author='Christopher Ramírez',
     author_email='chris.ramirezg@gmail.com',
